@@ -1,6 +1,10 @@
-# Hero Design 01 🛠️
+# You are made for Discover. 
+Hero Design 01 🛠️
 
 Diseño de Hero con fines eductivos.
+
+## Design
+![Design](https://mir-cdn.behance.net/v1/rendition/project_modules/fs/8e6160100589735.5f1377ff933cb.png)
 
 Deploy: 🛠️
 
